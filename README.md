@@ -1,2 +1,3 @@
 # noah-barajas-student
- Mostly for college/class
+ Testing Git and GitHub for CIS 111B
+ Mostly for student projects, but I may add a few personal projects on this repository
